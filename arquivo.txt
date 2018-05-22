@@ -3,7 +3,7 @@
 int main () {
  
 	printf("Init git");
-
+	printf("Alteração");
 return 0;
 
 }
